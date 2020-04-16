@@ -1,0 +1,4 @@
+tensorflow_datasets==2.1.0
+tensorflow==2.2.0-rc0
+kerastuner
+
